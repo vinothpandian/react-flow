@@ -31,7 +31,7 @@
     "release:next": "release-it --preRelease=next"
   },
   "dependencies": {
-    "@babel/runtime": "^7.21.0",
+    "@babel/runtime": "^7.29.10",
     "@types/d3": "^7.0.0",
     "@types/react-redux": "^7.1.24",
     "classcat": "^5.0.3",
@@ -55,7 +55,7 @@
     "@types/redux": "^3.6.31",
     "@types/resize-observer-browser": "^0.1.6",
     "autoprefixer": "^10.3.7",
-    "babel-preset-react-app": "^10.0.0",
+    "babel-preset-react-app": "^10.1.0",
     "cypress": "^8.5.0",
     "postcss": "^8.5.32",
     "postcss-cli": "^9.0.1",
